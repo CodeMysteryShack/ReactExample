@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p className="read-the-docs">
-        ©2023 v.2.0.0
+        ©2023
       </p>
     </div>
   )
