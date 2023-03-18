@@ -1,8 +1,8 @@
 {
   "name": "react-vite",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
-  "homepage": "https://codemysteryshack.github.io/ReactExample/",
+  "homepage": "https://codemysteryshack.github.io/ReactExample",
   "type": "module",
   "scripts": {
     "dev": "vite",
