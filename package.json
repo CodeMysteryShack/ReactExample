@@ -2,7 +2,7 @@
   "name": "reactexample",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://codemysteryshack.github.io/",
+  "homepage": "https://codemysteryshack.github.io/ReactExample",
   "type": "module",
   "scripts": {
     "dev": "vite",
