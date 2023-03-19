@@ -1,6 +1,6 @@
 {
   "name": "reactexample",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "homepage": "https://codemysteryshack.github.io/ReactExample",
   "type": "module",
